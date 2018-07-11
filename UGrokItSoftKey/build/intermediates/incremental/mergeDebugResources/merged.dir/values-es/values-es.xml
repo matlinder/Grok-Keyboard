@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools" xmlns:ns2="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="UgiAlertCancel">cancelar</string>
+    <string name="UgiAlertOk">aceptar</string>
+    <string name="UgiAndroidAudioConfigurationBody">Si tienes problemas de conexión, puede ser útil volver a configurar.\n\nLa configuración actual es de %1$s</string>
+    <string name="UgiAndroidAudioConfigurationReconfigureButton">volver a configurar</string>
+    <string name="UgiAndroidAudioConfigurationSourceAuto">Configuración automática</string>
+    <string name="UgiAndroidAudioConfigurationSourceLocal">Local</string>
+    <string name="UgiAndroidAudioConfigurationSourceServer">Servidor</string>
+    <string name="UgiAndroidAudioConfigurationTitle">configuración de audio</string>
+    <string name="UgiAndroidAudioJackLocationAuto">detectar automáticamente</string>
+    <string name="UgiAndroidAudioJackLocationBottom">parte inferior del dispositivo</string>
+    <string name="UgiAndroidAudioJackLocationTitle">ubicación conector de audio</string>
+    <string name="UgiAndroidAudioJackLocationTop">parte superior del dispositivo</string>
+    <string name="UgiAndroidAutoConfigBody" ns1:ignore="TypographyDashes">Determinando la mejor configuración para este dispositivo Android.\nEsto solo se hará una vez y tardará 1-2 minutos.\n\nIntentando #%1$d: %2$d/%3$d (%4$s)</string>
+    <string name="UgiAndroidAutoConfigCompletedFailed">error</string>
+    <string name="UgiAndroidAutoConfigCompletedSuccess">satisfactorio: %1$d segundos (%2$s)</string>
+    <string name="UgiAndroidAutoConfigTitle">configuración automática</string>
+    <string name="UgiAndroidAutoRotationOff">El ajuste de giro automático de tu dispositivo está apagado, lo que significa que la pantalla no girará de forma automática. Si quieres que la pantalla gire de forma automática, ve a ajustes y elige Girar automáticamente en la sección Pantalla.</string>
+    <string name="UgiAndroidDeviceSpecificMessageSetButton">establecer</string>
+    <string name="UgiAndroidDeviceSpecificMessageTitle">mensaje importante</string>
+    <string name="UgiAndroidNeedRecordAudioPermission">Debes dar permiso a la aplicación para grabar audio o el lector U Grok It no se podrá utilizar.</string>
+    <string name="UgiAndroidVersionAlertAndroidModel">modelo android: %1$s</string>
+    <string name="UgiAndroidVersionAlertPD67Model">modelo: %1$s</string>
+    <string name="UgiAndroidVolumeBody">Sube el volumen al máximo (este dispositivo no permite a U Grok It hacerlo automáticamente)</string>
+    <string name="UgiAndroidVolumeTitle">volumen</string>
+    <string name="UgiAndroidWaitingLoadingDeviceInfo">Cargando información del dispositivo</string>
+    <string name="UgiAndroidWarning">advertencia</string>
+    <string name="UgiBarcodeScanBarcodeNotSupported">este PD20 no es compatible con el escaneo de códigos de barras</string>
+    <string name="UgiBarcodeScanNotConnected">PD20 no conectado</string>
+    <string name="UgiBarcodeScanTitle">escaneo de código de barras</string>
+    <string name="UgiBatteryStateBatteryPercent">batería: %d%%</string>
+    <string name="UgiBatteryStateBusy">ocupado</string>
+    <string name="UgiBatteryStateCharging">cargando</string>
+    <string name="UgiBatteryStateConnected">conectado</string>
+    <string name="UgiBatteryStateConnecting">conectando</string>
+    <string name="UgiBatteryStateFirmwareUpdate">actualización del firmware</string>
+    <string name="UgiBatteryStateFullyCharged">carga completada</string>
+    <string name="UgiBatteryStateNotConnected">no está conectado</string>
+    <string name="UgiBatteryStateScanning">escaneando</string>
+    <string name="UgiBatteryStateTemperatureTooHot">demasiada temperatura</string>
+    <string name="UgiBatteryStateTemperatureWithin10">calentándose</string>
+    <string name="UgiBatteryStateTemperatureWithin20">empezando a calentarse</string>
+    <string name="UgiBatteryStateTemperatureWithin5">llegando a demasiada temperatura</string>
+    <string name="UgiChooseOptionMustChoose">debes hacer una selección</string>
+    <string name="UgiDisconnectedAlertHelpButton">ayuda</string>
+    <string name="UgiDisconnectedAlertStateConnectingTitle">conectando</string>
+    <string name="UgiDisconnectedAlertStateDisconnectedBody">por favor conecta tu PD20</string>
+    <string name="UgiDisconnectedAlertStateDisconnectedTitle">desconectado</string>
+    <string name="UgiDisconnectedAlertStateErrorBody">no se puede establecer comunicación con el PD20\ncomprueba el nivel de batería del PD20</string>
+    <string name="UgiDisconnectedAlertStateErrorTitle">error</string>
+    <string name="UgiFarsensTagAveragingMode">modo de promedio</string>
+    <string name="UgiFarsensTagPowerMode">modo de energía</string>
+    <string name="UgiFarsensTagRange">distancia</string>
+    <string name="UgiFarsensTagReadingOrientation">orientación de lectura</string>
+    <string name="UgiFarsensTagReadingPressure">presión de la lectura</string>
+    <string name="UgiFarsensTagReadingRelay">relé de lectura</string>
+    <string name="UgiFarsensTagReadingTemperature">leyendo temperatura</string>
+    <string name="UgiFarsensTagSettingRelay">ajuste de relés</string>
+    <string name="UgiFarsensTagWriting">"escribiendo %1$s</string>
+    <string name="UgiFirmwareUpdateBody">Hay una actualización disponible\nVersión: %1$d.%2$d.%3$d%4$s\n%5$s</string>
+    <string name="UgiFirmwareUpdateCantLoadUpdateBody">no se puede cargar la actualización</string>
+    <string name="UgiFirmwareUpdateFailed">error de actualización</string>
+    <string name="UgiFirmwareUpdateLaterButton">más tarde</string>
+    <string name="UgiFirmwareUpdateStartingUpdate">empezando actualización</string>
+    <string name="UgiFirmwareUpdateSuccessful">actualizado satisfactoriamente\n%1$d segundos\nversión: %2$d.%3$d.%4$d%5$s</string>
+    <string name="UgiFirmwareUpdateTitle">actualización del PD20</string>
+    <string name="UgiFirmwareUpdateTryAgain">inténtalo de nuevo</string>
+    <string name="UgiFirmwareUpdateUpdateButton">actualizar</string>
+    <string name="UgiInventoryErrorBatteryLow">Nivel de batería demasiado bajo\nPor favor carga el PD20</string>
+    <string name="UgiInventoryErrorErrorCommunicating">Error de comunicación con el PD20</string>
+    <string name="UgiInventoryErrorHfNotSupported">este PD20 no es compatible con HF</string>
+    <string name="UgiInventoryErrorRegionNotSet">Región no establecida</string>
+    <string name="UgiInventoryErrorTitle">error del PD20</string>
+    <string name="UgiInventoryErrorTooHot">Temperatura demasiado elevada\ndeja que el PD20 se enfríe</string>
+    <string name="UgiInventoryErrorUnknown">error del PD20: %1$s</string>
+    <string name="UgiReaderDescriptionConnected">%1$s, S/N %2$d, protocolo %3$d, SW %4$d.%5$d.%6$d%7$s%8$s, región %9$s</string>
+    <string name="UgiReaderDescriptionConnectedBarcode">, código de barras %1$d.%2$d.%3$d</string>
+    <string name="UgiReaderDescriptionConnectedHf">, HF %1$d.%2$d.%3$d</string>
+    <string name="UgiReaderDescriptionNotConnected">no está conectado</string>
+    <string name="UgiRegionNameAustralia">AUS: Australia, Nueva Zelanda</string>
+    <string name="UgiRegionNameBrazil">BRA: Brasil</string>
+    <string name="UgiRegionNameChina">CHN: China</string>
+    <string name="UgiRegionNameETSI">EU: ETSI</string>
+    <string name="UgiRegionNameETSI_HIGH">ETSI alto</string>
+    <string name="UgiRegionNameFCC_IC">NA: FCC (EE. UU.), IC (Canadá)</string>
+    <string name="UgiRegionNameHongKong">Hong Kong</string>
+    <string name="UgiRegionNameIndia">IND: India</string>
+    <string name="UgiRegionNameIndonesia">Indonesia</string>
+    <string name="UgiRegionNameIsrael">Israel</string>
+    <string name="UgiRegionNameJapanLicensed">Japón (con licencia)</string>
+    <string name="UgiRegionNameJapanUnlicensed">Japón (sin licencia)</string>
+    <string name="UgiRegionNameLatvia">Letonia</string>
+    <string name="UgiRegionNameMalaysia">Malasia</string>
+    <string name="UgiRegionNameNewZealand">Nueva Zelanda</string>
+    <string name="UgiRegionNamePeru">PER: Perú</string>
+    <string name="UgiRegionNamePhilippines">PHI: Filipinas</string>
+    <string name="UgiRegionNameRussia">RUS: Federación Rusa</string>
+    <string name="UgiRegionNameSingapore">SGP: Singapur</string>
+    <string name="UgiRegionNameSouthAfrica">Sudáfrica</string>
+    <string name="UgiRegionNameSouthKorea">KOR: Corea del Sur</string>
+    <string name="UgiRegionNameTaiwanIndoor">Taiwán (interior)</string>
+    <string name="UgiRegionNameTaiwanOutdoor">Taiwán (al aire libre)</string>
+    <string name="UgiSetRegionChooseRegionMessage">Por favor elige la región en la que vas a utilizar el PD20.</string>
+    <string name="UgiSetRegionConnectTheGrokker">conecta el PD20 para definir la región</string>
+    <string name="UgiSetRegionConnectivityRequired">Antes de utilizar el nuevo PD20 debes elegir la región del mundo en la que va a operar. Esto necesita conectividad a internet</string>
+    <string name="UgiSetRegionEnterPassword">introducir la contraseña</string>
+    <string name="UgiSetRegionFailure">error al definir la región %1$s</string>
+    <string name="UgiSetRegionIncludeTestingRegions">incluir regiones de prueba</string>
+    <string name="UgiSetRegionSetButtonText">establecer</string>
+    <string name="UgiSetRegionSuccess">define la región %1$s</string>
+    <string name="UgiSetRegionSuccessContinueButton">continuar</string>
+    <string name="UgiSetRegionTitle">definir región</string>
+    <string name="UgiSetRegionWarning">Definir otra región distinta a la región en la que estás operando es ilegal</string>
+    <string name="UgiTagAccessErrorGeneral">error general</string>
+    <string name="UgiTagAccessErrorInventoryStopped">inventario detuvo</string>
+    <string name="UgiTagAccessErrorMemoryOverrun">memoria invadido</string>
+    <string name="UgiTagAccessErrorPasswordRequired">se necesita contraseña</string>
+    <string name="UgiTagAccessErrorRequiresAuthentication">requiere autenticación</string>
+    <string name="UgiTagAccessErrorTagNotFound">tag no encontrado</string>
+    <string name="UgiTagAccessErrorUnknown">error desconocido: %1$s</string>
+    <string name="UgiTagAccessErrorWrongPassword">contraseña incorrecta</string>
+    <string name="UgiVersionAlertBody">tipo: %1$s\nserie #: %2$d\nfirmware: %3$d.%4$d.%5$d</string>
+    <string name="UgiVersionAlertExtraInfoGrokkerProtocol">protocolo: %1$d</string>
+    <string name="UgiVersionAlertExtraInfoSDK">SDK: %1$d.%2$d.%3$d, %4$s, protocolo %5$d</string>
+    <string name="UgiVersionPD67AlertBody">serie #: %1$d\nbuild: %2$s\nfirmware: %3$d.%4$d.%5$d (%6$d.%7$d.%8$d%9$s)</string>
+    <string name="UgiWaitingLoadingRegions">cargando regiones</string>
+    <string name="UgiWaitingLoadingUpdate">cargando actualización</string>
+    <string name="UgiWaitingSettingRegion">definiendo región</string>
+    <string name="UgiWaitingStoppingInventory">deteniendo</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartir con <ns2:g id="APPLICATION_NAME">%s</ns2:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+</resources>

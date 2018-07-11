@@ -1,0 +1,110 @@
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.3'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        applicationId "com.ugrokit.softkeyboard"
+        minSdkVersion 14
+        targetSdkVersion 27
+
+        versionName "1.40"
+        versionCode 40
+    }
+
+    /*
+       - Versioning convention:  "A.B"
+	   -    - Update "B" anytime I update the GooglePlay version
+       -
+       -  1.0 : 04/08/2015  Google Play launch
+       -  1.1 : 04/09/2015  Include SDK tweaks
+       -  1.4 : 05/26/2015  New SDK: tab 4 support
+       -  1.5  : 07/09/2015  More device support, fixed a couple of bugs
+       -  1.6  : 08/15/2015  Fix crash bug with setting region
+       -  1.7  : 08/26/2015  Fix firmware update and set region to handle cancel via back-button correctly
+       -  1.8  : 09/19/2015  Android device compatibility, first connection reports
+       -  1.9  : 10/05/2015  SDK 1.8.1, Android device compatibility
+       -  1.10 : 10/07/2015  SDK 1.8.2, fix crash bug for unrecognized devices
+       -  1.11 : 10/20/2015  SDK 1.8.3, Marshmallow support
+       -  1.12 : 10/26/2015  SDK 1.8.4, Marshmallow support
+       -  1.13 : 11/24/2015  SDK 1.8.6, improved compatibility via volume setting
+       -  1.14 : 01/13/2-16  Device file
+       -  1.15 : 02/04/2016  Device file
+       -  1.16 : 02/11/2016  Device file, fix to work with Marshmallow
+       -  1.17 : 03/28/2016  Device list, bug fixes, SDK 1.10.1 (pre-release)
+       -  1.18 : 05/16/2016  Disconnected dialog, device list, bug fixes, SDK 1.10.2 (pre-release)
+       -  1.19 : 08/12/2016  Device list, SDK 1.12.3
+       -  1.20 : 08/31/2016  Device list, SDK 1.13.1
+       -  1.21 : 09/08/2016  Final 1.13.1 SDK
+       -  1.22 : 09/28/2016  1.13.2 SDK (unreleased), icon improvement, option to stay connected always,
+                             option for find one tag only, bug fixes
+       -  1.23 : 10/28/2016  SDK 1.13.3 (new "connection" animation)
+       -  1.24 : 11/22/2016  SDK 1.13.4
+       -  1.25 : 12/15/2016  SDK 1.14.1
+       -  1.26 : 01/25/2017  SDK 1.15.1, use single-find mode
+       -  1.27 : 02/01/2017  SDK 1.15.2 (bug fix)
+       -  1.28 : 02/15/2017  SDK 1.15.4
+       -  1.29 : 03/31/2017  SDK 1.15.6, EPC as text
+       -  1.30 : 04/18/2017  SDK 1.15.6, timing bug with settings dialog, cursor at end of EPC, smart comma seperator
+       -  1.31 : 07/14/2017  SDK 1.16.1, region locking
+       -  1.32 : 08/15/2017  SDK 1.16.2 (in progress), fix memory/thread leak, region table changes
+       -  1.33 : 09/27/2017  SDK 1.16.2
+       -  1.34 : 10/05/2017  SDK 1.16.3 (in progress), fix so set region dialog dos not lose the buttons on short screens
+       -  1.35 : 10/13/2017  SDK 1.16.4, Incorporate fix to SINGLE_FIND mode
+       -  1.36 : 10/26/2017  SDK 1.16.5 in progress, Fix to work with very old firmware (1.6.2) still in a few Grokkers
+       -  1.37 : 11/06/2017  SDK 1.16.5 in progress, add "always add comma at start" setting
+       -  1.38 : 01/11/2018  SDK 1.16.5, minor bug fixes
+          1.39 code 39: 05/05/2018 SDK 1.16.7 - change "Grokker" to "PD20"
+          1.40 code 40: 05/29/2018 SDK 1.16.8 - changed Pixel support
+    */
+
+
+    buildTypes {
+        debug {
+            debuggable true
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    lintOptions {
+        tasks.lint.enabled = false
+    }
+}
+
+repositories {
+    jcenter()
+    mavenCentral()
+    google()
+}
+
+dependencies {
+    implementation(name:"UGrokItApi-release", ext:"aar")
+    implementation 'com.android.support:appcompat-v7:27.1.0'
+}
+
+repositories {
+    flatDir { dirs "libs" }
+}

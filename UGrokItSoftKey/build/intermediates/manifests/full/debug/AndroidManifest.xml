@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ugrokit.softkeyboard"
+    android:versionCode="40"
+    android:versionName="1.40" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.ugrokit.softkeyboard.SoftKeyboardApp"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/ime_name" >
+        <service
+            android:name="com.ugrokit.softkeyboard.SoftKeyboard"
+            android:permission="android.permission.BIND_INPUT_METHOD" >
+            <intent-filter>
+                <action android:name="android.view.InputMethod" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.view.im"
+                android:resource="@xml/method" />
+        </service>
+
+        <activity android:name="com.ugrokit.api.UgiMarshmallowPermissionActivity" />
+    </application>
+
+</manifest>

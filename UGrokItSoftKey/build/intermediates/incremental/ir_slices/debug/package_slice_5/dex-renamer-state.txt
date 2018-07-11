@@ -1,0 +1,4 @@
+#Wed Jul 11 12:38:35 PDT 2018
+base.0=C\:\\Users\\mathew\\Downloads\\UGrokItSoftKey_2018_07_02\\UGrokItSoftKey\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

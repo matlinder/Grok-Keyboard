@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:1:1-20:12
+MERGED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\a66bf29e10761cdbe571fca384bda921\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\c9e7348e8838bad3b8f27c9811b2b4d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\eac68e56d0e3906db6fb831fa10fc720\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\5694ba80ee55f4de5f9bff111109a29b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\09e2e1587f8a96b8b37fa0b6e49abe37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\ef8860e720e975f5c41cf50c9aa7b9da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2279340b34ed361c89ea72c785dfd979\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e643a4d24f7a391caba98045b7d3e88b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f3d6c89432c63e78584a5bb9bc5c8f4a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9e4fdb50b3838e7ae401fc2472c88fad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fff93e4f28922616ec8d2e2cc48487b2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:1:1-20:12
+	package
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:2:11-45
+		INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:4:5-70
+MERGED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:11:5-71
+MERGED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:4:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:5:5-79
+MERGED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:12:5-80
+MERGED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:6:5-66
+MERGED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:13:5-67
+MERGED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:8:5-19:19
+MERGED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:15:5-17:19
+MERGED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:15:5-17:19
+	android:label
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:8:18-50
+	android:icon
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:10:18-54
+	android:name
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:9:18-49
+service#com.ugrokit.softkeyboard.SoftKeyboard
+ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:11:9-17:19
+	android:permission
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:12:18-75
+	android:name
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:11:18-46
+intent-filter#action:name:android.view.InputMethod
+ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:13:13-15:29
+action#android.view.InputMethod
+ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:14:17-67
+	android:name
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:14:25-64
+meta-data#android.view.im
+ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:16:13-88
+	android:resource
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:16:55-85
+	android:name
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml:16:24-54
+uses-sdk
+INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+MERGED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:7:5-9:41
+MERGED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\a66bf29e10761cdbe571fca384bda921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\a66bf29e10761cdbe571fca384bda921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\c9e7348e8838bad3b8f27c9811b2b4d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\c9e7348e8838bad3b8f27c9811b2b4d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\eac68e56d0e3906db6fb831fa10fc720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\eac68e56d0e3906db6fb831fa10fc720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\5694ba80ee55f4de5f9bff111109a29b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\5694ba80ee55f4de5f9bff111109a29b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\09e2e1587f8a96b8b37fa0b6e49abe37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\09e2e1587f8a96b8b37fa0b6e49abe37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\ef8860e720e975f5c41cf50c9aa7b9da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\ef8860e720e975f5c41cf50c9aa7b9da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2279340b34ed361c89ea72c785dfd979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2279340b34ed361c89ea72c785dfd979\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e643a4d24f7a391caba98045b7d3e88b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e643a4d24f7a391caba98045b7d3e88b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f3d6c89432c63e78584a5bb9bc5c8f4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f3d6c89432c63e78584a5bb9bc5c8f4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9e4fdb50b3838e7ae401fc2472c88fad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9e4fdb50b3838e7ae401fc2472c88fad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fff93e4f28922616ec8d2e2cc48487b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fff93e4f28922616ec8d2e2cc48487b2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mathew\Documents\GitHub\Grok-Keyboard\UGrokItSoftKey\src\main\AndroidManifest.xml
+activity#com.ugrokit.api.UgiMarshmallowPermissionActivity
+ADDED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:16:9-85
+	android:name
+		ADDED from [:UGrokItApi-release:] C:\Users\mathew\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\bdc26d4b147ef888a6f6f9d526e680a7\AndroidManifest.xml:16:19-82

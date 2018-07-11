@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: UGrokItApi-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/UGrokItApi-release.aar/bdc26d4b147ef888a6f6f9d526e680a7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/UGrokItApi-release.aar/bdc26d4b147ef888a6f6f9d526e680a7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/UGrokItApi-release.aar/bdc26d4b147ef888a6f6f9d526e680a7/jars/libs/gson-2.8.2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/UGrokItApi-release.aar/bdc26d4b147ef888a6f6f9d526e680a7/jars/libs/com.econ.gpio-dex2jar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
